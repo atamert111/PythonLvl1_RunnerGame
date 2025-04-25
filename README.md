@@ -23,13 +23,17 @@ Bu proje, Python programlama dili ve PGZero kütüphanesi kullanılarak hazırla
 
 ##  Klasör Yapısı
 
-runner-game/ │ 
+runner-game/ 
+│ 
     ├── game.py 
     ├── README.md 
-    ├── requirements.txt │ 
+    ├── requirements.txt
+    │ 
     ├── images/ │ 
-        └── hero/ # Oyuncu sprite'ları │ 
-        └── zombi/ # Zombi sprite'ları │ 
+        └── hero/ # Oyuncu sprite'ları 
+        │ 
+        └── zombi/ # Zombi sprite'ları 
+        │ 
     ├── sounds/ # Efekt sesleri (jump, gameover, funny_crash) 
     └── music/ # background.wav (arka plan müziği)
 
